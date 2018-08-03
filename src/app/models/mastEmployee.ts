@@ -1,0 +1,24 @@
+export class MastEmployee{
+	employeeSeq : String;
+	employeeCode : String;
+	titleCode : String;
+	employeeNameth : String;
+	employeeSurnameth : String;
+	employeeNameeng : String;
+	employeeSurnameeng : String;
+	emptypeCode : String;
+	sex : String;
+	birthDate : String;
+	maritalCode : String;
+	nationalityCode : String;
+	employeePin : String;
+	employeeTin : String;
+	employeeSsn : String;
+	employeeAddr : String;
+	companySeq : String;
+	deptSeq : String;
+	positionSeq : String;
+	statusRecord : String;
+	createDate : String;
+	createBy : String;
+};
